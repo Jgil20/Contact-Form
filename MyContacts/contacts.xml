@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Jhon</first_name>
+	<last_name>Arzu</last_name>
+	<phone_number>832-566-0070</phone_number>
+	<notes>My Notes</notes>
+</contact>
+<contact>
+	<first_name>Sara</first_name>
+	<last_name>Cronk</last_name>
+	<phone_number>6165279544</phone_number>
+	<notes>Call your mother</notes>
+</contact>
+<contact>
+	<first_name>Tank</first_name>
+	<last_name>The G</last_name>
+	<phone_number>517</phone_number>
+	<notes>Michigan</notes>
+</contact>
+</contacts>
